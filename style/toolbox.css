@@ -1,0 +1,111 @@
+	#CDEV-toolbox {
+		background-color: #AA061D;
+		width: 292px;
+    margin-left: -40px;
+	}
+
+	#CDEV-toolbox ul {
+		margin-top: 0px;
+		display: block;
+		padding: 11px;
+	}
+
+	#CDEV-toolbox li {
+		display: inline-block;
+		width: 85px;
+		height: 95px;
+		margin-left: 5px;
+	}
+
+	#CDEV-toolbox li a {
+		display: block;
+		height: 60px;
+		width: 78px;
+		background-image: url("http://ftpcontent.worldnow.com/professionalservices/clients/wsil/toolbox.png");
+		background-repeat: no-repeat;
+		background-color: #AA061D;
+	}
+
+	#CDEV-toolbox li a:hover {
+		background-image: url("http://ftpcontent.worldnow.com/professionalservices/clients/wsil/toolBoxOnOff.png");
+	}
+
+	#CDEV-toolbox li a span {
+		margin-top: 78px;
+		position: absolute;
+		font-weight: bold;
+		color: #fff;
+		font-size: 13px;
+		font-weight: bold;
+		font-family: 'Open Sans', sans-serif;
+	}
+
+	#CDEV-toolbox li a.whatsOn span {
+		left: 25px;
+	}
+
+	#CDEV-toolbox li a.whatsOn {
+		background-position: -19px -6px;
+	}
+
+	#CDEV-toolbox li a.apps span {
+		left: 130px;
+	}
+
+	#CDEV-toolbox li a.apps {
+		background-position: -117px -4px;
+	}
+
+	#CDEV-toolbox li a.links span {
+		left: 224px;
+	}
+	#CDEV-toolbox li a.links {
+		background-position: -218px -6px;
+	}
+
+	#CDEV-toolbox li a.tips span {
+		left: 25px;
+	}
+
+	#CDEV-toolbox li a.tips {
+		background-position: -17px -95px;
+	}
+
+	#CDEV-toolbox li a.contests span {
+		left: 125px;
+	}
+
+	#CDEV-toolbox li a.contests {
+		background-position: -117px -89px;
+	}
+
+	#CDEV-toolbox li a.closings span {
+		left: 218px;
+	}
+	#CDEV-toolbox li a.closings {
+		background-position: -220px -93px;
+	}
+
+	#CDEV-toolbox li a.whatsOn:hover {
+		background-position: -12px -224px;
+	}
+
+	#CDEV-toolbox li a.apps:hover {
+		background-position: -110px -222px;
+	}
+
+	#CDEV-toolbox li a.links:hover {
+		background-position: -211px -224px;
+	}
+
+	#CDEV-toolbox li a.tips:hover {
+		background-position: -10px -313px;
+	}
+
+	#CDEV-toolbox li a.contests:hover {
+		background-position: -110px -307px;
+	}
+
+	#CDEV-toolbox li a.closings:hover {
+		background-position: -213px -311px;
+	}

@@ -1,0 +1,89 @@
+.displaySize.displaySize .header h3 span {
+	background-color: #fff;
+  z-index: 10000;
+  padding: 0px 5px;
+  font: bold 20px LibrationSans, sans-serif !important;
+  color: #3F3F3F;
+  text-transform: uppercase;
+}
+
+.displaySize.displaySize .header h3 {
+	text-align: center;
+	background: url(http://ftpcontent.worldnow.com/wncustom/wsil/custom/images/bg_co_ribbon.gif);
+	background-position: 0 -3px;
+}
+
+.displaySize .wnGroup {
+	border: 1px solid #c7c7c7;
+  border-top: 0;
+  overflow: visible;
+  padding-top: 0px;
+  margin-top: 20px;
+  padding-bottom: 10px;
+}
+
+.displaySize.displaySize .header {
+	position: relative;
+  top: -13px;
+}
+
+ul.wnGroup, li.wnItem {
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#csSkyCams {
+	width: 340px;
+}
+
+#csSkyCams li.wnItem.feature {
+  padding-right: 5px;
+  padding-left: 5px;
+  margin-top: -15px;
+}
+
+#csSkyCams .radarContain {
+	float: left;
+	margin: 5px;
+	padding-left: 13px;
+}
+
+#csSkyCams .radarContain a {
+	text-decoration: none;
+}
+
+#csSkyCams .radarContain span {
+	font-size: 15px;
+	font-weight: bold;
+	display: block;
+	height: 45px;
+	width: 134px;
+	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+	color: #555;
+	background-color: gainsboro;
+	padding-top: 5px;
+}
+
+#csSkyCams .radarContain img {
+	height: 75px;
+	border: none;
+}
+
+#csSkyCams	.moreWrap {
+  font-size: 1.5em;
+  text-align: center;
+  margin-bottom: -10px;
+  margin-top: 15px;
+}
+
+#csSkyCams .wnContent.more.enabled {
+	padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: inline-block;
+  background-color: #AA061F;
+  color: white;
+  text-decoration: none;
+}
